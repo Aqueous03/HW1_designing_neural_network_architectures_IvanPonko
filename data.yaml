@@ -1,0 +1,7 @@
+path: .  # путь к корню датасета
+train: train/images
+val: val/images
+test: test/images
+
+nc: 1  # число классов
+names: ["license_plate"]
